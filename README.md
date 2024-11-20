@@ -1,5 +1,6 @@
 # Hello, world! 🌟
 
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseeefashrraf&show_icons=true&theme=radical)
 <!--
 **yousseeefashrraf/yousseeefashrraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
